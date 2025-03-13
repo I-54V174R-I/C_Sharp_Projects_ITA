@@ -1,0 +1,5 @@
+C:\Users\MarioAlejandro\Desktop\Programas C#\Proyecto_at\Proyecto_at\bin\Debug\Proyecto_at.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\Proyecto_at\Proyecto_at\bin\Debug\Proyecto_at.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\Proyecto_at\Proyecto_at\obj\x86\Debug\Proyecto_at.csprojResolveAssemblyReference.cache
+C:\Users\MarioAlejandro\Desktop\Programas C#\Proyecto_at\Proyecto_at\obj\x86\Debug\Proyecto_at.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\Proyecto_at\Proyecto_at\obj\x86\Debug\Proyecto_at.pdb

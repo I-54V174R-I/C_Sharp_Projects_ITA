@@ -1,0 +1,46 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Factorial;
+
+namespace Factorial
+{
+    class Elementos
+    {
+        private int n;
+        public int N
+        {
+            get { return n; }
+            set { n = value; }
+        }
+        private int res;
+
+        public int Res
+        {
+            get { return res; }
+            set { res = value; }
+        }
+        private int b1;
+
+        public int B1
+        {
+            get { return b1; }
+            set { b1 = value; }
+        }
+        private int b2;
+
+        public int B2
+        {
+            get { return b2; }
+            set { b2 = value; }
+        }
+        private String op;
+
+        public String Op
+        {
+            get { return op; }
+            set { op = value; }
+        }
+    }
+}

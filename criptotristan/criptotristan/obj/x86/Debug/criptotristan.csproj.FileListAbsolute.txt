@@ -1,0 +1,5 @@
+C:\Users\MarioAlejandro\Desktop\Programas C#\criptotristan\criptotristan\bin\Debug\criptotristan.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\criptotristan\criptotristan\bin\Debug\criptotristan.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\criptotristan\criptotristan\obj\x86\Debug\criptotristan.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\criptotristan\criptotristan\obj\x86\Debug\criptotristan.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\criptotristan\criptotristan\obj\x86\Debug\criptotristan.csprojResolveAssemblyReference.cache

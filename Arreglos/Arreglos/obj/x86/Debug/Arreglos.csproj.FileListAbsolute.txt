@@ -1,0 +1,6 @@
+C:\Users\mario\Desktop\ITA\Programas C#\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\mario\Desktop\ITA\Programas C#\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\mario\Desktop\ITA\Programas C#\Arreglos\Arreglos\obj\x86\Debug\Arreglos.csprojAssemblyReference.cache
+C:\Users\mario\Desktop\ITA\Programas C#\Arreglos\Arreglos\obj\x86\Debug\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\ITA\Programas C#\Arreglos\Arreglos\obj\x86\Debug\Arreglos.exe
+C:\Users\mario\Desktop\ITA\Programas C#\Arreglos\Arreglos\obj\x86\Debug\Arreglos.pdb

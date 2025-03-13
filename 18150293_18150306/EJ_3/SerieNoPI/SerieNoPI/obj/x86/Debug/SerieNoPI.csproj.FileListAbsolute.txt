@@ -1,0 +1,5 @@
+C:\Users\MarioAlejandro\Desktop\Programas C#\SerieNoPI\SerieNoPI\bin\Debug\SerieNoPI.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\SerieNoPI\SerieNoPI\bin\Debug\SerieNoPI.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\SerieNoPI\SerieNoPI\obj\x86\Debug\SerieNoPI.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\SerieNoPI\SerieNoPI\obj\x86\Debug\SerieNoPI.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\SerieNoPI\SerieNoPI\obj\x86\Debug\SerieNoPI.csprojResolveAssemblyReference.cache

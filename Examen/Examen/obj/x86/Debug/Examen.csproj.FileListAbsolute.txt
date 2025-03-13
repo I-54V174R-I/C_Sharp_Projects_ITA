@@ -1,0 +1,4 @@
+C:\Users\MarioAlejandro\Desktop\Programas C#\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\Examen\Examen\obj\x86\Debug\Examen.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\Examen\Examen\obj\x86\Debug\Examen.pdb

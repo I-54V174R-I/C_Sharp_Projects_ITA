@@ -1,0 +1,11 @@
+C:\Users\MarioAlejandro\Desktop\Programas C#\Proyecto_atxt\Proyecto_atxt\bin\Debug\Proyecto_atxt.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\Proyecto_atxt\Proyecto_atxt\bin\Debug\Proyecto_atxt.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\Proyecto_atxt\Proyecto_atxt\obj\x86\Debug\Proyecto_atxt.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\Proyecto_atxt\Proyecto_atxt\obj\x86\Debug\Proyecto_atxt.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\Proyecto_atxt\Proyecto_atxt\obj\x86\Debug\Proyecto_atxt.csprojResolveAssemblyReference.cache
+E:\ITA\Programas C#\Proyecto_atxt\Proyecto_atxt\bin\Debug\Proyecto_atxt.exe
+E:\ITA\Programas C#\Proyecto_atxt\Proyecto_atxt\bin\Debug\Proyecto_atxt.pdb
+E:\ITA\Programas C#\Proyecto_atxt\Proyecto_atxt\obj\x86\Debug\Proyecto_atxt.csprojAssemblyReference.cache
+E:\ITA\Programas C#\Proyecto_atxt\Proyecto_atxt\obj\x86\Debug\Proyecto_atxt.csproj.CoreCompileInputs.cache
+E:\ITA\Programas C#\Proyecto_atxt\Proyecto_atxt\obj\x86\Debug\Proyecto_atxt.exe
+E:\ITA\Programas C#\Proyecto_atxt\Proyecto_atxt\obj\x86\Debug\Proyecto_atxt.pdb

@@ -1,0 +1,5 @@
+C:\Users\MarioAlejandro\Desktop\Programas C#\ejemplovector\ejemplovector\bin\Debug\ejemplovector.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\ejemplovector\ejemplovector\bin\Debug\ejemplovector.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\ejemplovector\ejemplovector\obj\x86\Debug\ejemplovector.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\ejemplovector\ejemplovector\obj\x86\Debug\ejemplovector.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\ejemplovector\ejemplovector\obj\x86\Debug\ejemplovector.csprojResolveAssemblyReference.cache

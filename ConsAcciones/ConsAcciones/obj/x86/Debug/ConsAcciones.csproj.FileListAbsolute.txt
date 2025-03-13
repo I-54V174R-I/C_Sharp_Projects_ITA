@@ -1,0 +1,4 @@
+C:\Users\MarioAlejandro\Desktop\Programas C#\ConsAcciones\ConsAcciones\bin\Debug\ConsAcciones.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\ConsAcciones\ConsAcciones\bin\Debug\ConsAcciones.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\ConsAcciones\ConsAcciones\obj\x86\Debug\ConsAcciones.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\ConsAcciones\ConsAcciones\obj\x86\Debug\ConsAcciones.pdb

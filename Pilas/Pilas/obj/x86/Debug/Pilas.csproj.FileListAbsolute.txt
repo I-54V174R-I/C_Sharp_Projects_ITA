@@ -1,0 +1,5 @@
+C:\Users\MarioAlejandro\Desktop\Programas C#\Pilas\Pilas\bin\Debug\Pilas.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\Pilas\Pilas\bin\Debug\Pilas.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\Pilas\Pilas\obj\x86\Debug\Pilas.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\Pilas\Pilas\obj\x86\Debug\Pilas.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\Pilas\Pilas\obj\x86\Debug\Pilas.csprojResolveAssemblyReference.cache

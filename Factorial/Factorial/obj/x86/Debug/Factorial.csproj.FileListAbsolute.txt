@@ -1,0 +1,5 @@
+C:\Users\MarioAlejandro\Desktop\Programas C#\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\Factorial\Factorial\obj\x86\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\MarioAlejandro\Desktop\Programas C#\Factorial\Factorial\obj\x86\Debug\Factorial.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\Factorial\Factorial\obj\x86\Debug\Factorial.pdb

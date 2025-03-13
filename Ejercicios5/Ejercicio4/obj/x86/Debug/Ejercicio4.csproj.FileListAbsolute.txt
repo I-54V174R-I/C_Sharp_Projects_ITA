@@ -1,0 +1,4 @@
+C:\Users\MarioAlejandro\Desktop\Programas C#\Ejercicios5\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\Ejercicios5\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\Ejercicios5\Ejercicio4\obj\x86\Debug\Ejercicio4.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\Ejercicios5\Ejercicio4\obj\x86\Debug\Ejercicio4.pdb

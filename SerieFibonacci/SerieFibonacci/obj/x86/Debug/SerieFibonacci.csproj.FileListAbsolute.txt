@@ -1,0 +1,11 @@
+C:\Users\MarioAlejandro\Desktop\Programas C#\SerieFibonacci\SerieFibonacci\bin\Debug\SerieFibonacci.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\SerieFibonacci\SerieFibonacci\bin\Debug\SerieFibonacci.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\SerieFibonacci\SerieFibonacci\obj\x86\Debug\SerieFibonacci.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\SerieFibonacci\SerieFibonacci\obj\x86\Debug\SerieFibonacci.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\SerieFibonacci\SerieFibonacci\obj\x86\Debug\SerieFibonacci.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\ITA\Programas C#\SerieFibonacci\SerieFibonacci\bin\Debug\SerieFibonacci.exe
+C:\Users\mario\Desktop\ITA\Programas C#\SerieFibonacci\SerieFibonacci\bin\Debug\SerieFibonacci.pdb
+C:\Users\mario\Desktop\ITA\Programas C#\SerieFibonacci\SerieFibonacci\obj\x86\Debug\SerieFibonacci.csprojAssemblyReference.cache
+C:\Users\mario\Desktop\ITA\Programas C#\SerieFibonacci\SerieFibonacci\obj\x86\Debug\SerieFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\ITA\Programas C#\SerieFibonacci\SerieFibonacci\obj\x86\Debug\SerieFibonacci.exe
+C:\Users\mario\Desktop\ITA\Programas C#\SerieFibonacci\SerieFibonacci\obj\x86\Debug\SerieFibonacci.pdb

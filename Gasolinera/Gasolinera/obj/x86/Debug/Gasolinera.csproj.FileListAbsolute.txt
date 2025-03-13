@@ -1,0 +1,22 @@
+c:\users\marioalejandro\documents\visual studio 2010\Projects\Gasolinera\Gasolinera\bin\Debug\Gasolinera.exe
+c:\users\marioalejandro\documents\visual studio 2010\Projects\Gasolinera\Gasolinera\bin\Debug\Gasolinera.pdb
+c:\users\marioalejandro\documents\visual studio 2010\Projects\Gasolinera\Gasolinera\obj\x86\Debug\Gasolinera.exe
+c:\users\marioalejandro\documents\visual studio 2010\Projects\Gasolinera\Gasolinera\obj\x86\Debug\Gasolinera.pdb
+C:\Users\MarioAlejandro\documents\visual studio 2010\Projects\Gasolinera\Gasolinera\obj\x86\Debug\Gasolinera.csprojResolveAssemblyReference.cache
+C:\Users\MarioAlejandro\Desktop\Programas C#\Gasolinera\Gasolinera\obj\x86\Debug\Gasolinera.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\Gasolinera\Gasolinera\obj\x86\Debug\Gasolinera.pdb
+C:\Users\HP\Desktop\Gasolinera\Gasolinera\obj\x86\Debug\Gasolinera.exe
+C:\Users\HP\Desktop\Gasolinera\Gasolinera\obj\x86\Debug\Gasolinera.pdb
+C:\Users\HP\Desktop\Gasolinera\Gasolinera\bin\Debug\Gasolinera.exe
+C:\Users\HP\Desktop\Gasolinera\Gasolinera\bin\Debug\Gasolinera.pdb
+C:\Users\HP\Desktop\Gasolinera\Gasolinera\obj\x86\Debug\Gasolinera.csprojResolveAssemblyReference.cache
+C:\Users\MarioAlejandro\Desktop\Programas C#\Gasolinera\Gasolinera\bin\Debug\Gasolinera.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\Gasolinera\Gasolinera\bin\Debug\Gasolinera.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\Gasolinera\Gasolinera\obj\x86\Debug\Gasolinera.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\PORTAFOLIO EVIDENCIAS CV\UNIVERSIDAD\C#\Programas C#\Gasolinera\Gasolinera\bin\Debug\Gasolinera.exe.config
+C:\Users\mario\Desktop\PORTAFOLIO EVIDENCIAS CV\UNIVERSIDAD\C#\Programas C#\Gasolinera\Gasolinera\bin\Debug\Gasolinera.exe
+C:\Users\mario\Desktop\PORTAFOLIO EVIDENCIAS CV\UNIVERSIDAD\C#\Programas C#\Gasolinera\Gasolinera\bin\Debug\Gasolinera.pdb
+C:\Users\mario\Desktop\PORTAFOLIO EVIDENCIAS CV\UNIVERSIDAD\C#\Programas C#\Gasolinera\Gasolinera\obj\x86\Debug\Gasolinera.csproj.AssemblyReference.cache
+C:\Users\mario\Desktop\PORTAFOLIO EVIDENCIAS CV\UNIVERSIDAD\C#\Programas C#\Gasolinera\Gasolinera\obj\x86\Debug\Gasolinera.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\PORTAFOLIO EVIDENCIAS CV\UNIVERSIDAD\C#\Programas C#\Gasolinera\Gasolinera\obj\x86\Debug\Gasolinera.exe
+C:\Users\mario\Desktop\PORTAFOLIO EVIDENCIAS CV\UNIVERSIDAD\C#\Programas C#\Gasolinera\Gasolinera\obj\x86\Debug\Gasolinera.pdb

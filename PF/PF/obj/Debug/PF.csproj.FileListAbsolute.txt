@@ -1,0 +1,31 @@
+C:\Users\irvin\Desktop\ITA\5QUINTO SEMESTRE\bdd\proyecto\PROYECTO F\PF\PF\bin\Debug\PF.exe.config
+C:\Users\irvin\Desktop\ITA\5QUINTO SEMESTRE\bdd\proyecto\PROYECTO F\PF\PF\bin\Debug\PF.exe
+C:\Users\irvin\Desktop\ITA\5QUINTO SEMESTRE\bdd\proyecto\PROYECTO F\PF\PF\bin\Debug\PF.pdb
+C:\Users\irvin\Desktop\ITA\5QUINTO SEMESTRE\bdd\proyecto\PROYECTO F\PF\PF\obj\Debug\PF.csprojAssemblyReference.cache
+C:\Users\irvin\Desktop\ITA\5QUINTO SEMESTRE\bdd\proyecto\PROYECTO F\PF\PF\obj\Debug\PF.CONSULTA_1.resources
+C:\Users\irvin\Desktop\ITA\5QUINTO SEMESTRE\bdd\proyecto\PROYECTO F\PF\PF\obj\Debug\PF.Form1.resources
+C:\Users\irvin\Desktop\ITA\5QUINTO SEMESTRE\bdd\proyecto\PROYECTO F\PF\PF\obj\Debug\PF.Properties.Resources.resources
+C:\Users\irvin\Desktop\ITA\5QUINTO SEMESTRE\bdd\proyecto\PROYECTO F\PF\PF\obj\Debug\PF.csproj.GenerateResource.cache
+C:\Users\irvin\Desktop\ITA\5QUINTO SEMESTRE\bdd\proyecto\PROYECTO F\PF\PF\obj\Debug\PF.csproj.CoreCompileInputs.cache
+C:\Users\irvin\Desktop\ITA\5QUINTO SEMESTRE\bdd\proyecto\PROYECTO F\PF\PF\obj\Debug\PF.exe
+C:\Users\irvin\Desktop\ITA\5QUINTO SEMESTRE\bdd\proyecto\PROYECTO F\PF\PF\obj\Debug\PF.pdb
+C:\Users\irvin\Desktop\ITA\5QUINTO SEMESTRE\bdd\proyecto\PROYECTO F\PF\PF\obj\Debug\PF.CONSULTA_2.resources
+C:\Users\irvin\Desktop\ITA\5QUINTO SEMESTRE\bdd\proyecto\PROYECTO F\PF\PF\obj\Debug\PF.INSERTAR.resources
+C:\Users\irvin\Desktop\ITA\5QUINTO SEMESTRE\bdd\proyecto\PROYECTO F\PF\PF\bin\Debug\mysql.data.dll
+C:\Users\irvin\Desktop\ITA\5QUINTO SEMESTRE\bdd\proyecto\PROYECTO F\PF\PF\obj\Debug\PF.csproj.CopyComplete
+C:\Users\irvin\Desktop\ITA\5QUINTO SEMESTRE\bdd\proyecto\PROYECTO F\PF\PF\obj\Debug\PF.EDICION.resources
+C:\Users\mario\Desktop\PF\PF\bin\Debug\PF.exe.config
+C:\Users\mario\Desktop\PF\PF\bin\Debug\PF.exe
+C:\Users\mario\Desktop\PF\PF\bin\Debug\PF.pdb
+C:\Users\mario\Desktop\PF\PF\obj\Debug\PF.csprojAssemblyReference.cache
+C:\Users\mario\Desktop\PF\PF\obj\Debug\PF.CONSULTA_1.resources
+C:\Users\mario\Desktop\PF\PF\obj\Debug\PF.CONSULTA_2.resources
+C:\Users\mario\Desktop\PF\PF\obj\Debug\PF.EDICION.resources
+C:\Users\mario\Desktop\PF\PF\obj\Debug\PF.Form1.resources
+C:\Users\mario\Desktop\PF\PF\obj\Debug\PF.INSERTAR.resources
+C:\Users\mario\Desktop\PF\PF\obj\Debug\PF.Properties.Resources.resources
+C:\Users\mario\Desktop\PF\PF\obj\Debug\PF.csproj.GenerateResource.cache
+C:\Users\mario\Desktop\PF\PF\obj\Debug\PF.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\PF\PF\obj\Debug\PF.csproj.CopyComplete
+C:\Users\mario\Desktop\PF\PF\obj\Debug\PF.exe
+C:\Users\mario\Desktop\PF\PF\obj\Debug\PF.pdb

@@ -1,0 +1,22 @@
+C:\Users\MNM\Desktop\TXTbasedatos\TXTbasedatos\bin\Debug\TXTbasedatos.exe.config
+C:\Users\MNM\Desktop\TXTbasedatos\TXTbasedatos\bin\Debug\TXTbasedatos.exe
+C:\Users\MNM\Desktop\TXTbasedatos\TXTbasedatos\bin\Debug\TXTbasedatos.pdb
+C:\Users\MNM\Desktop\TXTbasedatos\TXTbasedatos\bin\Debug\TXTbasedatos.xml
+C:\Users\MNM\Desktop\TXTbasedatos\TXTbasedatos\obj\Debug\TXTbasedatos.MainForm.resources
+C:\Users\MNM\Desktop\TXTbasedatos\TXTbasedatos\obj\Debug\TXTbasedatos.Resources.resources
+C:\Users\MNM\Desktop\TXTbasedatos\TXTbasedatos\obj\Debug\TXTbasedatos.vbproj.GenerateResource.Cache
+C:\Users\MNM\Desktop\TXTbasedatos\TXTbasedatos\obj\Debug\TXTbasedatos.exe
+C:\Users\MNM\Desktop\TXTbasedatos\TXTbasedatos\obj\Debug\TXTbasedatos.xml
+C:\Users\MNM\Desktop\TXTbasedatos\TXTbasedatos\obj\Debug\TXTbasedatos.pdb
+E:\ITA\Programas C#\TXTbasedatos\TXTbasedatos\bin\Debug\TXTbasedatos.exe.config
+E:\ITA\Programas C#\TXTbasedatos\TXTbasedatos\bin\Debug\TXTbasedatos.exe
+E:\ITA\Programas C#\TXTbasedatos\TXTbasedatos\bin\Debug\TXTbasedatos.pdb
+E:\ITA\Programas C#\TXTbasedatos\TXTbasedatos\bin\Debug\TXTbasedatos.xml
+E:\ITA\Programas C#\TXTbasedatos\TXTbasedatos\obj\Debug\TXTbasedatos.vbprojAssemblyReference.cache
+E:\ITA\Programas C#\TXTbasedatos\TXTbasedatos\obj\Debug\TXTbasedatos.MainForm.resources
+E:\ITA\Programas C#\TXTbasedatos\TXTbasedatos\obj\Debug\TXTbasedatos.Resources.resources
+E:\ITA\Programas C#\TXTbasedatos\TXTbasedatos\obj\Debug\TXTbasedatos.vbproj.GenerateResource.cache
+E:\ITA\Programas C#\TXTbasedatos\TXTbasedatos\obj\Debug\TXTbasedatos.vbproj.CoreCompileInputs.cache
+E:\ITA\Programas C#\TXTbasedatos\TXTbasedatos\obj\Debug\TXTbasedatos.exe
+E:\ITA\Programas C#\TXTbasedatos\TXTbasedatos\obj\Debug\TXTbasedatos.xml
+E:\ITA\Programas C#\TXTbasedatos\TXTbasedatos\obj\Debug\TXTbasedatos.pdb

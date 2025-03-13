@@ -1,0 +1,6 @@
+C:\Users\MarioAlejandro\Desktop\Programas C#\cadena_caracteres\cadena_caracteres\bin\Debug\cadena_caracteres.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\cadena_caracteres\cadena_caracteres\bin\Debug\cadena_caracteres.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\cadena_caracteres\cadena_caracteres\obj\x86\Debug\cadena_caracteres.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\cadena_caracteres\cadena_caracteres\obj\x86\Debug\cadena_caracteres.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\cadena_caracteres\cadena_caracteres\obj\x86\Debug\cadena_caracteres.csprojResolveAssemblyReference.cache
+C:\Users\MarioAlejandro\Dropbox\POO - Ago_Dic2018\Unidad I\Ejercicio_1\E1_18150293_18150306\cadena_caracteres\cadena_caracteres\obj\x86\Debug\cadena_caracteres.exe

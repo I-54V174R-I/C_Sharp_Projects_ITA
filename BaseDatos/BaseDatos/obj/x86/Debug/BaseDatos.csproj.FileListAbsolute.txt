@@ -1,0 +1,4 @@
+C:\Users\MarioAlejandro\Desktop\Programas C#\BaseDatos\BaseDatos\bin\Debug\BaseDatos.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\BaseDatos\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\BaseDatos\BaseDatos\obj\x86\Debug\BaseDatos.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\BaseDatos\BaseDatos\obj\x86\Debug\BaseDatos.pdb

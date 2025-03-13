@@ -1,0 +1,4 @@
+C:\Users\MarioAlejandro\Desktop\Programas C#\alumno\alumno\bin\Debug\alumno.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\alumno\alumno\bin\Debug\alumno.pdb
+C:\Users\MarioAlejandro\Desktop\Programas C#\alumno\alumno\obj\x86\Debug\alumno.exe
+C:\Users\MarioAlejandro\Desktop\Programas C#\alumno\alumno\obj\x86\Debug\alumno.pdb

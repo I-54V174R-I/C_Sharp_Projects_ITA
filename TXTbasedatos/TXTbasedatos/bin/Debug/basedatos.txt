@@ -1,0 +1,5 @@
+
+1,Juan Castro,809-554-9666,La carretera
+3,Pedro Castillo Ramirez,809-885-9898,Santiago
+4,Teresa Rodriguez,829-552-7458,San Poedro
+5,Sarah Pachez,809-558-8585,Higuey
