@@ -1,0 +1,14 @@
+C:\Users\mario\source\repos\Programacionfuncional\Programacionfuncional\bin\Debug\net8.0\Programacionfuncional.exe
+C:\Users\mario\source\repos\Programacionfuncional\Programacionfuncional\bin\Debug\net8.0\Programacionfuncional.deps.json
+C:\Users\mario\source\repos\Programacionfuncional\Programacionfuncional\bin\Debug\net8.0\Programacionfuncional.runtimeconfig.json
+C:\Users\mario\source\repos\Programacionfuncional\Programacionfuncional\bin\Debug\net8.0\Programacionfuncional.dll
+C:\Users\mario\source\repos\Programacionfuncional\Programacionfuncional\bin\Debug\net8.0\Programacionfuncional.pdb
+C:\Users\mario\source\repos\Programacionfuncional\Programacionfuncional\obj\Debug\net8.0\Programacionfuncional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\Programacionfuncional\Programacionfuncional\obj\Debug\net8.0\Programacionfuncional.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\Programacionfuncional\Programacionfuncional\obj\Debug\net8.0\Programacionfuncional.AssemblyInfo.cs
+C:\Users\mario\source\repos\Programacionfuncional\Programacionfuncional\obj\Debug\net8.0\Programacionfuncional.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Programacionfuncional\Programacionfuncional\obj\Debug\net8.0\Programacionfuncional.dll
+C:\Users\mario\source\repos\Programacionfuncional\Programacionfuncional\obj\Debug\net8.0\refint\Programacionfuncional.dll
+C:\Users\mario\source\repos\Programacionfuncional\Programacionfuncional\obj\Debug\net8.0\Programacionfuncional.pdb
+C:\Users\mario\source\repos\Programacionfuncional\Programacionfuncional\obj\Debug\net8.0\Programacionfuncional.genruntimeconfig.cache
+C:\Users\mario\source\repos\Programacionfuncional\Programacionfuncional\obj\Debug\net8.0\ref\Programacionfuncional.dll

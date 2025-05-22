@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mario\\source\\repos\\Serializaciondes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58BD3650-9ABC-404D-AD14-3CA519E77876}|Serializaciondes\\Serializaciondes.csproj|c:\\users\\mario\\source\\repos\\serializaciondes\\serializaciondes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BD3650-9ABC-404D-AD14-3CA519E77876}|Serializaciondes\\Serializaciondes.csproj|solutionrelative:serializaciondes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Serializaciondes\\Serializaciondes\\Program.cs",
+              "RelativeDocumentMoniker": "Serializaciondes\\Program.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\Serializaciondes\\Serializaciondes\\Program.cs",
+              "RelativeToolTip": "Serializaciondes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T03:41:28.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

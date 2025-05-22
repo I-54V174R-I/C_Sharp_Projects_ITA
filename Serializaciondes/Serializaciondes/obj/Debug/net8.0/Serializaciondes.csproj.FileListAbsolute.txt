@@ -1,0 +1,14 @@
+C:\Users\mario\source\repos\Serializaciondes\Serializaciondes\bin\Debug\net8.0\Serializaciondes.exe
+C:\Users\mario\source\repos\Serializaciondes\Serializaciondes\bin\Debug\net8.0\Serializaciondes.deps.json
+C:\Users\mario\source\repos\Serializaciondes\Serializaciondes\bin\Debug\net8.0\Serializaciondes.runtimeconfig.json
+C:\Users\mario\source\repos\Serializaciondes\Serializaciondes\bin\Debug\net8.0\Serializaciondes.dll
+C:\Users\mario\source\repos\Serializaciondes\Serializaciondes\bin\Debug\net8.0\Serializaciondes.pdb
+C:\Users\mario\source\repos\Serializaciondes\Serializaciondes\obj\Debug\net8.0\Serializaciondes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\Serializaciondes\Serializaciondes\obj\Debug\net8.0\Serializaciondes.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\Serializaciondes\Serializaciondes\obj\Debug\net8.0\Serializaciondes.AssemblyInfo.cs
+C:\Users\mario\source\repos\Serializaciondes\Serializaciondes\obj\Debug\net8.0\Serializaciondes.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Serializaciondes\Serializaciondes\obj\Debug\net8.0\Serializaciondes.dll
+C:\Users\mario\source\repos\Serializaciondes\Serializaciondes\obj\Debug\net8.0\refint\Serializaciondes.dll
+C:\Users\mario\source\repos\Serializaciondes\Serializaciondes\obj\Debug\net8.0\Serializaciondes.pdb
+C:\Users\mario\source\repos\Serializaciondes\Serializaciondes\obj\Debug\net8.0\Serializaciondes.genruntimeconfig.cache
+C:\Users\mario\source\repos\Serializaciondes\Serializaciondes\obj\Debug\net8.0\ref\Serializaciondes.dll

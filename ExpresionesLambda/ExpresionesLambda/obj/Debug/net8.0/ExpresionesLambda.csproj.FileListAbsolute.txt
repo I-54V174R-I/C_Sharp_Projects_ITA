@@ -1,0 +1,14 @@
+C:\Users\mario\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\net8.0\ExpresionesLambda.exe
+C:\Users\mario\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\net8.0\ExpresionesLambda.deps.json
+C:\Users\mario\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\net8.0\ExpresionesLambda.runtimeconfig.json
+C:\Users\mario\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\net8.0\ExpresionesLambda.dll
+C:\Users\mario\source\repos\ExpresionesLambda\ExpresionesLambda\bin\Debug\net8.0\ExpresionesLambda.pdb
+C:\Users\mario\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ExpresionesLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ExpresionesLambda.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ExpresionesLambda.AssemblyInfo.cs
+C:\Users\mario\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ExpresionesLambda.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ExpresionesLambda.dll
+C:\Users\mario\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\refint\ExpresionesLambda.dll
+C:\Users\mario\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ExpresionesLambda.pdb
+C:\Users\mario\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ExpresionesLambda.genruntimeconfig.cache
+C:\Users\mario\source\repos\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ref\ExpresionesLambda.dll

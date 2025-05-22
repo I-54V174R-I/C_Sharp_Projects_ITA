@@ -1,0 +1,14 @@
+C:\Users\mario\source\repos\FuncionPrimeraClase\FuncionPrimeraClase\bin\Debug\net8.0\FuncionPrimeraClase.exe
+C:\Users\mario\source\repos\FuncionPrimeraClase\FuncionPrimeraClase\bin\Debug\net8.0\FuncionPrimeraClase.deps.json
+C:\Users\mario\source\repos\FuncionPrimeraClase\FuncionPrimeraClase\bin\Debug\net8.0\FuncionPrimeraClase.runtimeconfig.json
+C:\Users\mario\source\repos\FuncionPrimeraClase\FuncionPrimeraClase\bin\Debug\net8.0\FuncionPrimeraClase.dll
+C:\Users\mario\source\repos\FuncionPrimeraClase\FuncionPrimeraClase\bin\Debug\net8.0\FuncionPrimeraClase.pdb
+C:\Users\mario\source\repos\FuncionPrimeraClase\FuncionPrimeraClase\obj\Debug\net8.0\FuncionPrimeraClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\FuncionPrimeraClase\FuncionPrimeraClase\obj\Debug\net8.0\FuncionPrimeraClase.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\FuncionPrimeraClase\FuncionPrimeraClase\obj\Debug\net8.0\FuncionPrimeraClase.AssemblyInfo.cs
+C:\Users\mario\source\repos\FuncionPrimeraClase\FuncionPrimeraClase\obj\Debug\net8.0\FuncionPrimeraClase.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\FuncionPrimeraClase\FuncionPrimeraClase\obj\Debug\net8.0\FuncionPrimeraClase.dll
+C:\Users\mario\source\repos\FuncionPrimeraClase\FuncionPrimeraClase\obj\Debug\net8.0\refint\FuncionPrimeraClase.dll
+C:\Users\mario\source\repos\FuncionPrimeraClase\FuncionPrimeraClase\obj\Debug\net8.0\FuncionPrimeraClase.pdb
+C:\Users\mario\source\repos\FuncionPrimeraClase\FuncionPrimeraClase\obj\Debug\net8.0\FuncionPrimeraClase.genruntimeconfig.cache
+C:\Users\mario\source\repos\FuncionPrimeraClase\FuncionPrimeraClase\obj\Debug\net8.0\ref\FuncionPrimeraClase.dll

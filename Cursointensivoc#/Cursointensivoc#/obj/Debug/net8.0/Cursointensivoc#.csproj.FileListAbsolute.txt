@@ -1,0 +1,14 @@
+C:\Users\mario\source\repos\Cursointensivoc#\Cursointensivoc#\bin\Debug\net8.0\Cursointensivoc#.exe
+C:\Users\mario\source\repos\Cursointensivoc#\Cursointensivoc#\bin\Debug\net8.0\Cursointensivoc#.deps.json
+C:\Users\mario\source\repos\Cursointensivoc#\Cursointensivoc#\bin\Debug\net8.0\Cursointensivoc#.runtimeconfig.json
+C:\Users\mario\source\repos\Cursointensivoc#\Cursointensivoc#\bin\Debug\net8.0\Cursointensivoc#.dll
+C:\Users\mario\source\repos\Cursointensivoc#\Cursointensivoc#\bin\Debug\net8.0\Cursointensivoc#.pdb
+C:\Users\mario\source\repos\Cursointensivoc#\Cursointensivoc#\obj\Debug\net8.0\Cursointensivoc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\Cursointensivoc#\Cursointensivoc#\obj\Debug\net8.0\Cursointensivoc#.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\Cursointensivoc#\Cursointensivoc#\obj\Debug\net8.0\Cursointensivoc#.AssemblyInfo.cs
+C:\Users\mario\source\repos\Cursointensivoc#\Cursointensivoc#\obj\Debug\net8.0\Cursointensivoc#.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Cursointensivoc#\Cursointensivoc#\obj\Debug\net8.0\Cursointensivoc#.dll
+C:\Users\mario\source\repos\Cursointensivoc#\Cursointensivoc#\obj\Debug\net8.0\refint\Cursointensivoc#.dll
+C:\Users\mario\source\repos\Cursointensivoc#\Cursointensivoc#\obj\Debug\net8.0\Cursointensivoc#.pdb
+C:\Users\mario\source\repos\Cursointensivoc#\Cursointensivoc#\obj\Debug\net8.0\Cursointensivoc#.genruntimeconfig.cache
+C:\Users\mario\source\repos\Cursointensivoc#\Cursointensivoc#\obj\Debug\net8.0\ref\Cursointensivoc#.dll
